@@ -55,6 +55,7 @@
 ## Demos
 
 - [Demos](https://github.com/GoogleChromeLabs/webmcp-tools/#demos) by Google Chrome Labs
+- [WebMCP Labs](https://github.com/MicrosoftEdge/webmcp-labs#samples) - Samples by Microsoft Edge demonstrating declarative forms, dynamic JavaScript tool registration, and a pizza-ordering workflow.
 - [Demos](https://github.com/GoogleChromeLabs/webmcp-tools/blob/main/AWESOME_WEBMCP.md#demos) by 3rd-party developers
 - [CliDeck MCP — Network Evidence Workbench](https://mcp.clideck.com/demo) - Live, read-only, version-aware network knowledge demo exposing deterministic lookup, change review, snapshot analysis, upgrade guidance, and topology analysis through WebMCP tools ([source](https://github.com/SmartRoot7/clideck-mcp)).
 - [isainative.dev](https://isainative.dev/) - Audits public GitHub repositories for AI coding readiness and exposes both declarative and imperative WebMCP tools.
@@ -75,6 +76,7 @@
 
 - [AIC (Agent Interaction Control)](https://github.com/VPAI-Grok/AIC) - Open-source contracts, cross-surface evidence, parity verification, and fail-closed reliance checks for WebMCP tools and their human UI, MCP, and API equivalents.
 - [Collection of WebMCP tools](https://github.com/GoogleChromeLabs/webmcp-tools/) by Google Chrome Labs
+- [WebMCP Explorer](https://github.com/MicrosoftEdge/webmcp-labs/tree/main/webmcp-explorer) - Browser extension for inspecting and executing WebMCP tools, with an autonomous agent loop and support for multiple LLM providers.
 - [webmaxru/agent-skills: WebMCP](https://github.com/webmaxru/agent-skills/tree/main/skills/webmcp) - Agent skill for implementing and debugging browser WebMCP integrations in JavaScript and TypeScript web apps
 - [Conscriba](https://conscriba.com/) — Automatic WebMCP Creation for AI Agents, Analytics & Tracking
 - [webmcp.com](https://webmcp.com/) — Live directory of WebMCP-enabled websites with a JSON API for agent-side discovery.
